@@ -38,6 +38,10 @@
 		{
 			"Name": "TextureGraph",
 			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
 		}
 	]
 }
